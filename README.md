@@ -39,17 +39,3 @@ A **full-stack web application** inspired by Instagram, built with **React, Node
 - 🔥 react-hot-toast (Notifications)  
 
 ---
-
-## 📷 Screenshots & Demo  
-
-### 🔑 Authentication  
-<img src="https://i.ibb.co/9c5tSbr/login-demo.gif" alt="Login Demo" width="600"/>  
-
-### 🏠 Home Feed  
-<img src="https://i.ibb.co/Yh9gMZf/feed.png" alt="Feed Page" width="600"/>  
-
-### 👤 Profile Page  
-<img src="https://i.ibb.co/FbwrRhN/profile.png" alt="Profile Page" width="600"/>  
-
-### 📲 Responsive Design  
-<img src="https://i.ibb.co/G75L7P7/mobile-demo.gif" alt="Mobile View" width="300"/>  
